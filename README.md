@@ -1,17 +1,17 @@
-                                      dP
-                                      88
-           .d8888b. .d8888b. .d8888b. 88 .d8888b.
-           Y8ooooo. 88'  ''' 88'  '88 88 88ooood8
-                 88 88.  ... 88.  .88 88 88.  ...
-           '88888P' '88888P' '88888P8 dP '88888P'
+                                                  dP
+                                                  88
+                       .d8888b. .d8888b. .d8888b. 88 .d8888b.
+                       Y8ooooo. 88'  ''' 88'  '88 88 88ooood8
+                             88 88.  ... 88.  .88 88 88.  ...
+                       '88888P' '88888P' '88888P8 dP '88888P'
 
 
 Shell script to display musical scale information and its guitar patterns, with option to show diatonic chords and export the output to pdf.
 
 ### Example:
         scale A major   
-      
-![scrn1](https://github.com/user-attachments/assets/6162a358-7136-49b2-9e18-433945029360)
+![scrnexample](https://github.com/user-attachments/assets/5953fd59-4661-4393-8b76-9961ad134b09)
+
 ## Usage:
 
         scale [SCALE]       display musical scale information and its guitar patterns
@@ -90,6 +90,7 @@ Shell script to display musical scale information and its guitar patterns, with 
 
 ## Screenshots:
 
+![scrn1](https://github.com/user-attachments/assets/ecd1e9cc-f2ff-4d35-b6d6-8a13d3511785)
 
 ![scrn2](https://github.com/user-attachments/assets/fe6c851c-1ac8-4da7-9048-11c53f632d19)
 
