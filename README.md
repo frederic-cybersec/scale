@@ -6,7 +6,7 @@
        '88888P' '88888P' '88888P8 dP '88888P'
 
 
-Shell script to display musical scale information and its guitar patterns, with option to show diatonic chords and export the output to pdf.
+Shell script to display musical scale information and its guitar patterns, with option to show diatonic chords and export the output to PDF
 
 ### Example:
         scale A major   
