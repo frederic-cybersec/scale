@@ -94,6 +94,4 @@ Shell script to display musical scale information and its guitar patterns, with 
 
 ![scrn2](https://github.com/user-attachments/assets/fe6c851c-1ac8-4da7-9048-11c53f632d19)
 
-![scrn3](https://github.com/user-attachments/assets/77246014-e7ba-4753-a32c-dfec94ba578f)
-
-
+![scrn3](https://github.com/user-attachments/assets/f23d67c6-85f9-41db-b0ae-698781b06e03)
