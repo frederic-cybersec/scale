@@ -8,7 +8,9 @@
 
 Shell script to display musical scale information and its guitar patterns, with option to show diatonic chords and export the output to pdf.
 
-
+### Example:
+        scale A major   
+      
 ![scrn1](https://github.com/user-attachments/assets/6162a358-7136-49b2-9e18-433945029360)
 ## Usage:
 
